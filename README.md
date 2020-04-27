@@ -45,4 +45,18 @@ steps followed to create react app from scratch:
     ```
     npm run create
     ```
- 
+## Prerequisites
+### Install Node Js
+Refer to [https://nodejs.org/en/](https://nodejs.org/en/) to install nodejs
+## Running the application locally
+Clone or download the project in your local repository by running the command in your github cmd git clone 'repo-url' <br/>
+Open the cloned/downloaded project folder and type the following command to install all the npm packages and dependencies
+from package.json file. <br/>
+```
+npm install
+```
+To run the application on your localhost, type the following command <br/>
+The application will run on localhost:8080
+```
+npm run start
+```
