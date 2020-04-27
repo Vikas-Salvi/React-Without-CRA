@@ -1,6 +1,7 @@
 # React-Without-CRA
-Created an React app without using create react app command line utility.<br/>
-steps followed to create react app from scratch:
+This is a simple app which will just display "Hello Vikas! greate you have create React app without CRA", <br/>
+here, I just want to focus on how to create a react app without using create-react-app command line utility.<br/>
+Steps followed to create a react app from scratch:
 - created and cloned the repository in github "React-Without-CRA".
 - run the command to create package.json file an follow the instructions
   ```
